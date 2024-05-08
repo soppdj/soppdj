@@ -8,7 +8,7 @@
 
 📫 You can reach me via:
    - Email: idnsopianto@gmail.com
-   - LinkedIn: linkedin.com/in/sopiantodjahar/
+   - LinkedIn: www.linkedin.com/in/sopiantodjahar/
 
 <!---
 soppdj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
