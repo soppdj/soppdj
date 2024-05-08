@@ -1,6 +1,6 @@
 ### Hi there, I'm Sopianto Djahar 👋
 
-👀 I'm passionate about data science and all things related to extracting insights from data.
+👀 I'm passionate about data analysis, data science and all things related to extracting insights from data.
 
 🌱 Currently, I'm enhancing my skills in data science through the IBM Data Science Course, diving deep into various topics like machine learning, data analysis, and data visualization.
 
